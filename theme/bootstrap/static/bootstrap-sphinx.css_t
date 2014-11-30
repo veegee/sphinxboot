@@ -5,9 +5,8 @@
  * Sphinx stylesheet -- Bootstrap theme
  */
 
-/*
+/* we need this for bootswatch themes */
 @import url(https://fonts.googleapis.com/css?family=Lato:400,700,700italic,900,900italic,400italic,300italic,300);
-*/
 
 /* DejaVu Sans Mono 2.3.4, generated with FontSquirrel, with TTFAutohint option */
 @font-face {
